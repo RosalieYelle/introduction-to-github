@@ -1,13 +1,13 @@
 # Making Emails Accessible
 ## Table of contents
 
-1. [Format](##Format)
+1. [Format](##format)
 2. [Bilingual message (if applicable)](##Bilingual-message-(if-applicable))
 
     [Setting a language](###Setting-a-language)
 
 4. [Plain language](##Plain-language)
-5. [Resources:](###Resources)
+5. [Resources](###Resources)
 3. [Style](##Styles)
    
     [Using a style](###Using-a-style)
