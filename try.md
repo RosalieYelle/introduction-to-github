@@ -69,7 +69,7 @@ text, benefiting individuals with visual impairments.
 - **Hyperlinks**: Allows for the inclusion of hyperlinks, which aids in providing additional
 context or references. Adaptive technology can detect and announce links, making it convenient
 for users to access relevant information.
-- **Alternative Text for Images**: Enables the use of [alternative text](###Alt text) for images,
+- **Alternative Text for Images**: Enables the use of [alternative text](#Alt-text) (Alt text) for images,
 helping some users to understand the content more easily. Adaptive technology can read out
 the alt text, providing context for images.
 
@@ -82,8 +82,9 @@ To send your emails using HTML format:
 3. select **Mail** (**M**)
 4. go to **Compose messages** drop-down list (**Alt + C**) and choose **HTML**
 5. select **OK**.
+   
 ![Outlook Options, Mail, Compose messages in this format dropdown list showing
-HTML.](https://faradayshielding.com.au/wp-content/uploads/2021/05/Image_039.jpg)
+HTML.](https://github.com/RosalieYelle/introduction-to-github/assets/78310125/b0898c6a-bbfc-4dc5-8215-c816984999dd)
 
 ## Bilingual message (if applicable)
 Whenever possible, avoid creating bilingual emails. Bilingual emails can introduce a lot of
@@ -91,7 +92,7 @@ accessibility and usability challenges for a wide range of users.
 
 If you must use bilingual emails, be sure to make them as accessible as possible.
 
-- [Add a bookmark](###Bookmarks) to let users skip to the section containing their language of
+- [Add a bookmark](#Bookmarks) to let users skip to the section containing their language of
 choice.
 - Include location of language information.
 1. in emails where English is the first language used, include “Le français suit l’anglais”
@@ -106,7 +107,7 @@ gibberish sounds.
 changing the proofing language of sections of a document
 1. Set Proofing Language (**Alt, V, U, L**).
 2. Highlight the text that you want set to a different language.
-3. Select the Review tab; then select **Language** &gt; **Set Proofing Language.**
+3. Select the Review tab; then select **Language** > **Set Proofing Language.**
 
 ## Plain language
 Avoid overly complex writing styles.
