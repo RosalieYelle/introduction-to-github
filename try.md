@@ -43,16 +43,16 @@
 
 14. [Using tables](#Using-tables)
     
-    [Add a table](##Add-a-table)
+    [Add a table](#Add-a-table)
 
 16. [Meaningful links](#Meaningful-links)
 
-    [Bookmarks](##Bookmarks)
+    [Bookmarks](#Bookmarks)
 
 18. [Accessible email signatures](#Accessible-email-signatures)
 19. [Testing for accessibility](#Testing-for-accessibility)
-20. [Outlook&#39;s Accessibility Checker](##Outlook’s-Accessibility-Checker)
-21. [Window&#39;s Narrator screen reader](##Windows’s-Narrator-screen-reader)
+20. [Outlook&#39;s Accessibility Checker](#Outlook’s-Accessibility-Checker)
+21. [Window&#39;s Narrator screen reader](#Windows’s-Narrator-screen-reader)
 
 ## Format
 Outlook offers three format options: HTML, Plain Text and Rich Text. Of these three options,
