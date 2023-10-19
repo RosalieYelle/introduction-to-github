@@ -35,9 +35,9 @@
 
     [Alt text](#Alt-Text)
 
-      [Add alt text](#Add-alt-text)
-    
-      [Add a caption](#Add-a-caption)
+    [Add alt text](#Add-alt-text)
+        
+    [Add a caption](#Add-a-caption)
 
     [Long description](#Long-descriptions)
 
