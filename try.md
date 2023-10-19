@@ -2,18 +2,18 @@
 ## Table of contents
 
 1. [Format](#format)
-2. [Bilingual message (if applicable)](#bilingual-message)
+2. [Bilingual message (if applicable)](#bilingual-message-(if-applicable))
 
-    [Setting a language](##setting-a-language)
+    [Setting a language](#setting-a-language)
 
 4. [Plain language](#plain-language)
-5. [Resources](##resources)
+5. [Resources](#resources)
 3. [Style](#styles)
    
     [Using a style](##using-a-style)
     [Modify a style](##modify-a-style)
    
-5. [Fonts](##fonts)
+5. [Fonts](#fonts)
    
    [Font attributes](###font-attributes)
    
