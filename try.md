@@ -2,7 +2,7 @@
 ## Table of contents
 
 1. [Format](#format)
-2. [Bilingual message (if applicable)](#bilingual-message-(if-applicable))
+2. [Bilingual message (if applicable)](#bilingual-message-if-applicable)
 
     [Setting a language](#setting-a-language)
 
