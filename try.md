@@ -8,7 +8,7 @@
 
 4. [Plain language](#plain-language)
 5. [Resources](#resources)
-3. [Style](#styles)
+3. [Styles](#styles)
    
     [Using a style](#using-a-style)
    
