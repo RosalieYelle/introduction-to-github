@@ -122,19 +122,13 @@ language (up to Grade 8) instead of scientific level of language (up to PhD) whe
 (SSC)”).
 ### Resources:
 
-[Canada.ca Content Style Guide—Plain Language
-(Canada.ca)](https://www.canada.ca/en/treasury-board-secretariat/services/government-
-communications/canada-content-style-guide.html#toc6)
+[Canada.ca Content Style Guide—Plain Language (Canada.ca)](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc6)
 
-[Write for your Reader—A plain language handbook
-(copian.ca)](http://en.copian.ca/library/learning/nwt/writread/writefor.pdf)
+[Write for your Reader—A plain language handbook (copian.ca)](http://en.copian.ca/library/learning/nwt/writread/writefor.pdf)
 
-[Putting plain language into practice
-(nwtliteracy.ca)](https://www.nwtliteracy.ca/sites/default/files/resources/practice.pdf)
+[Putting plain language into practice (nwtliteracy.ca)](https://www.nwtliteracy.ca/sites/default/files/resources/practice.pdf)
 
-[Plain Language Audit Tool—A checklist to review documents
-(nwtliteracy.ca)](https://www.nwtliteracy.ca/sites/default/files/resources/136648a_nwt_literac
-y_audit_tool.pdf)
+[Plain Language Audit Tool—A checklist to review documents (nwtliteracy.ca)](https://www.nwtliteracy.ca/sites/default/files/resources/136648a_nwt_literacy_audit_tool.pdf)
 
 ## Styles
 
@@ -145,10 +139,8 @@ text, you are applying all the formatting information contained in that Style to
 easy step, and you maintain consistent formatting throughout your document.
 
 - Do not use direct formatting (changing the appearance using the font attributes in the Font
-group on the Home tab) to change the appearance of your headings or normal text. Instead,
-[Modify a style](###Modify-a-style)
-- Avoid extra spaces or returns for formatting. Instead, [modify paragraph style](###Modify a
-style) to add space.
+group on the Home tab) to change the appearance of your headings or normal text. Instead, [modify a style](#modify-a-style)
+- Avoid extra spaces or returns for formatting. Instead, [modify paragraph style](#modify-a-style) to add space.
 - Do not use the Bold or Italics buttons in the Font group on the Home tab. Adaptive technology
 will not identify these styles to the user. Instead use **Strong** style for text you want bolded
 and **Emphasis** style for text you want italicized so that all users will receive the same
@@ -162,11 +154,13 @@ example, a heading in your message.
 To access the Styles pane, select the **expansion arrow** (**Alt, H, F, Y)** and the Styles pane
 will open. Select **Title**. The text will be formatted to the Title style and highlighted in the
 Styles pane.
-![See caption below](https://faradayshielding.com.au/wp-
-content/uploads/2021/05/Image_039.jpg)
+
+![See caption below](https://github.com/RosalieYelle/introduction-to-github/assets/78310125/71672908-7978-49ff-ab14-35b005602744)
+
 Figure 2: Styles gallery More button
-![See caption below](https://faradayshielding.com.au/wp-
-content/uploads/2021/05/Image_039.jpg)
+
+![See caption below](https://github.com/RosalieYelle/introduction-to-github/assets/78310125/ccef4f80-d85d-4c2a-8b5f-caa90657cbc2)
+
 Figure 3: Expanded Style gallery.
 
 ### Modify a style
@@ -198,7 +192,9 @@ Please select a sans-serif, for example: Arial, Calibri, Verdana, etc.
 - use **underline for links only**
 - include textual description when using symbols (for example, Symbol of a stop sign used, text
 says, “Stop littering”).
+
 **Avoid**
+
 - using decorative font attributes, such as drop caps, text effects or WordArt
 - using symbols and icons as the only way to communicate information
 - using superscripts and subscripts
@@ -206,8 +202,7 @@ says, “Stop littering”).
 Mathematical Markup Language (MathML)
 - italicizing more than a few words, as it becomes difficult to read.
 - The Government of Canada recommends that [only acts, laws and court cases should
-be italicized](https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-
-references)
+be italicized](https://www.noslangues-ourlanguages.gc.ca/en/writing-tips-plus/italics-legal-references)
 - use of visual styles (colour, bolding, etc.) as the only way of conveying information.
 ## Use of colour
 Don’t use colour by itself to convey information. If using colour to convey meaning, always use
@@ -217,8 +212,8 @@ labels, symbols, etc.).
 - Ensure sufficient contrast between text and background colours
 - To be accessible, the dark/light contrast between text and background must be greater than or
 equal to:
-- 4.5:1 for small text (under 14 points in size)
-- 3:1 for large text (14 points or larger)
+    - 4.5:1 for small text (under 14 points in size)
+    - 3:1 for large text (14 points or larger)
 - Measure the contrast between text and background colours using a tool like [WebAIM’s Colour
 Contrast Checker](http://webaim.org/resources/contrastchecker)
 - Limit the use of bright, saturated colours
@@ -229,7 +224,7 @@ Avoid changing the default Outlook Theme (Office). Using other themes may introd
 accessibility barriers.
 ## Semantic structure
 ### Headings
-- Use Outlook’s [built-in heading styles](#_Styles).
+- Use Outlook’s [built-in heading styles](#Styles).
 - Organize headings in a logical top-to-bottom and hierarchical order.
 - A **Heading 1** is the email title or main content heading.
 - A **Heading 2** is a major section heading.
@@ -314,16 +309,12 @@ Avoid clearing these checkboxes as these are the default accessibility options.
 ## Meaningful links
 Microsoft Office automatically formats link text as underlined and blue. This helps readers
 identify where links are in a document.
+
 **Note**: Only use underline for hyperlinks in your digital content.
+
 - Always provide meaningful link text so that users know where the link will take them. (For
 example, “[Federal business innovation and growth support for clean technology,
-2020](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww150.statcan.g
-c.ca%2Fn1%2Fpub%2F11-627-m%2F11-627-m2023034-
-eng.htm&amp;data=05%7C01%7Cjeremy.plaunt%40statcan.gc.ca%7C3e8ca5f490a548b625a808db66
-926f87%7C258f1f99ee3d42c7bfc57af1b2343e02%7C0%7C0%7C638216551368085338%7CUnkn
-own%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6M
-n0%3D%7C3000%7C%7C%7C&amp;sdata=sGpYup47dHNeia1i5H7iI8F5aDV%2BhKDUw4YaWH79ECY
-%3D&amp;reserved=0).”)
+2020](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww150.statcan.gc.ca%2Fn1%2Fpub%2F11-627-m%2F11-627-m2023034-eng.htm&amp;data=05%7C01%7Cjeremy.plaunt%40statcan.gc.ca%7C3e8ca5f490a548b625a808db66926f87%7C258f1f99ee3d42c7bfc57af1b2343e02%7C0%7C0%7C638216551368085338%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=sGpYup47dHNeia1i5H7iI8F5aDV%2BhKDUw4YaWH79ECY%3D&amp;reserved=0).”)
 
 - Put the destination website (company name) at the end of the link in parentheses, for example
 (Canada.ca). This is another best practice for helping the user know where a link takes them—is
@@ -369,9 +360,10 @@ Outlook’s built-in signature in mail settings.
 7. Move to the **signature field** (**Alt + T and Tab to field**) to enter things like a sign-off
 (Thank you) and your name, title, pronouns, etc.
 8. Use the available formatting options to change its appearance.
-- Use appropriate font sizes (12 pt or greater).
+    - Use appropriate font sizes (12 pt or greater).
 9. Select **OK.**
 10. Select **OK** again.
+  
 **Note:** Do not use images of text in your signature block (unless it is a logo).
 ## Testing for accessibility
 The **Accessibility Checker** is **not** a substitute for knowing how to create an accessible
