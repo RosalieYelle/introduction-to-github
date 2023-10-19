@@ -1,17 +1,17 @@
 # Making Emails Accessible
 ## Table of contents
 
-1. [Format](##format)
-2. [Bilingual message (if applicable)](##Bilingual-message-(if-applicable))
+1. [Format](#format)
+2. [Bilingual message (if applicable)](#Bilingual-message-(if-applicable))
 
-    [Setting a language](###Setting-a-language)
+    [Setting a language](##Setting-a-language)
 
-4. [Plain language](##Plain-language)
-5. [Resources](###Resources)
-3. [Style](##Styles)
+4. [Plain language](#Plain-language)
+5. [Resources](##Resources)
+3. [Style](#Styles)
    
-    [Using a style](###Using-a-style)
-    [Modify a style](###Modify-a-style)
+    [Using a style](##Using-a-style)
+    [Modify a style](##Modify-a-style)
    
 5. [Fonts](##Fonts)
    
@@ -383,7 +383,3 @@ document. It is an automated tool and only identifies some accessibility issues.
 - Press the **Windows key** (⊞) **+** **Control + Enter** to start/stop Narrator.
 - Navigating using the keyboard, the email content can be tested to verify if a screen reader
 properly identifies your content.
-fjdkfjdkgd
-gmfkdgmfd
-mgfkdgmf
-gmfkdgmfkdsg
