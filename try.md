@@ -31,16 +31,15 @@
 
 12. [Accessible images](#Accessible-images)
 
-    [Inline images](##Inline-images)
+    [Inline images](#Inline-images)
 
-    [Alt text](##Alt-Text)
+    [Alt text](#Alt-Text)
 
-      [Add alt text](###Add-alt-text)
+      [Add alt text](#Add-alt-text)
     
-    [Add a caption](###Add-a-caption)
+      [Add a caption](#Add-a-caption)
 
-
-    [Long description](##Long-descriptions)
+    [Long description](#Long-descriptions)
 
 14. [Using tables](#Using-tables)
     
