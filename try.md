@@ -10,49 +10,50 @@
 5. [Resources](#resources)
 3. [Style](#styles)
    
-    [Using a style](##using-a-style)
-    [Modify a style](##modify-a-style)
+    [Using a style](#using-a-style)
+   
+    [Modify a style](#modify-a-style)
    
 5. [Fonts](#fonts)
    
-   [Font attributes](###font-attributes)
+   [Font attributes](#font-attributes)
    
-6. [Use of colour](##use-of-colour)  
-7. [Colour contrast](##colour-contrast)
-8. [Outlook Themes](##outlook-Themes)
-9. [Semantic structure](##semantic-structure)
+6. [Use of colour](#use-of-colour)  
+7. [Colour contrast](#colour-contrast)
+8. [Outlook Themes](#outlook-Themes)
+9. [Semantic structure](#semantic-structure)
     
-    [Headings](###headings)
+    [Headings](##headings)
 
-    [Paragraphs](###paragraphs)
+    [Paragraphs](##paragraphs)
 
-    [Lists](###lists)
+    [Lists](##lists)
 
-12. [Accessible images](##Accessible-images)
+12. [Accessible images](#Accessible-images)
 
-    [Inline images](###Inline-images)
+    [Inline images](##Inline-images)
 
-    [Alt text](###Alt-Text)
+    [Alt text](##Alt-Text)
 
-      [Add alt text](####Add-alt-text)
+      [Add alt text](###Add-alt-text)
     
-    [Add a caption](####Add-a-caption)
+    [Add a caption](###Add-a-caption)
 
 
-    [Long description](###Long-descriptions)
+    [Long description](##Long-descriptions)
 
-14. [Using tables](##Using-tables)
+14. [Using tables](#Using-tables)
     
-    [Add a table](###Add-a-table)
+    [Add a table](##Add-a-table)
 
-16. [Meaningful links](##Meaningful-links)
+16. [Meaningful links](#Meaningful-links)
 
-    [Bookmarks](###Bookmarks)
+    [Bookmarks](##Bookmarks)
 
-18. [Accessible email signatures](##Accessible-email-signatures)
-19. [Testing for accessibility](##Testing-for-accessibility)
-20. [Outlook&#39;s Accessibility Checker](###Outlook’s-Accessibility-Checker)
-21. [Window&#39;s Narrator screen reader](###Windows’s-Narrator-screen-reader)
+18. [Accessible email signatures](#Accessible-email-signatures)
+19. [Testing for accessibility](#Testing-for-accessibility)
+20. [Outlook&#39;s Accessibility Checker](##Outlook’s-Accessibility-Checker)
+21. [Window&#39;s Narrator screen reader](##Windows’s-Narrator-screen-reader)
 
 ## Format
 Outlook offers three format options: HTML, Plain Text and Rich Text. Of these three options,
