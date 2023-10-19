@@ -23,11 +23,11 @@
 8. [Outlook Themes](#outlook-Themes)
 9. [Semantic structure](#semantic-structure)
     
-    [Headings](##headings)
+    [Headings](#headings)
 
-    [Paragraphs](##paragraphs)
+    [Paragraphs](#paragraphs)
 
-    [Lists](##lists)
+    [Lists](#lists)
 
 12. [Accessible images](#Accessible-images)
 
