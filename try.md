@@ -2,31 +2,31 @@
 ## Table of contents
 
 1. [Format](#format)
-2. [Bilingual message (if applicable)](#bilingual-message-(if-applicable))
+2. [Bilingual message (if applicable)](#bilingual-message)
 
-    [Setting a language](##Setting-a-language)
+    [Setting a language](##setting-a-language)
 
-4. [Plain language](#Plain-language)
-5. [Resources](##Resources)
-3. [Style](#Styles)
+4. [Plain language](#plain-language)
+5. [Resources](##resources)
+3. [Style](#styles)
    
-    [Using a style](##Using-a-style)
-    [Modify a style](##Modify-a-style)
+    [Using a style](##using-a-style)
+    [Modify a style](##modify-a-style)
    
-5. [Fonts](##Fonts)
+5. [Fonts](##fonts)
    
-   [Font attributes](###Font-attributes)
+   [Font attributes](###font-attributes)
    
-6. [Use of colour](##Use-of-colour)  
-7. [Colour contrast](##Colour-contrast)
-8. [Outlook Themes](##Outlook-Themes)
-9. [Semantic structure](##Semantic-structure)
+6. [Use of colour](##use-of-colour)  
+7. [Colour contrast](##colour-contrast)
+8. [Outlook Themes](##outlook-Themes)
+9. [Semantic structure](##semantic-structure)
     
-    [Headings](###Headings)
+    [Headings](###headings)
 
-    [Paragraphs](###Paragraphs)
+    [Paragraphs](###paragraphs)
 
-    [Lists](###Lists)
+    [Lists](###lists)
 
 12. [Accessible images](##Accessible-images)
 
