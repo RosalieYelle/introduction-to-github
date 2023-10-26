@@ -74,7 +74,7 @@ malvoyantes.
 supplémentaire ou des références. La technologie adaptée peut détecter et annoncer les liens,
 ce qui permet à l’utilisateur d’accéder facilement aux renseignements pertinents.
 - **Texte de remplacement pour les images** : il est possible d’utiliser un [texte de
-remplacement](##) à la place d’images, ce qui aide certains utilisateurs à comprendre plus
+remplacement](#Texte-de-remplacement) à la place d’images, ce qui aide certains utilisateurs à comprendre plus
 facilement le contenu. La technologie adaptée peut lire le texte de remplacement à voix haute,
 donnant ainsi un contexte aux images.
 
