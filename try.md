@@ -95,9 +95,9 @@ If you must use bilingual emails, be sure to make them as accessible as possible
 - [Add a bookmark](#Bookmarks) to let users skip to the section containing their language of
 choice.
 - Include location of language information.
-1. in emails where English is the first language used, include “Le français suit l’anglais”
+  1. in emails where English is the first language used, include “Le français suit l’anglais”
 above the English content
-2. in emails where French is the first language used, include “English follows” above the
+    2. in emails where French is the first language used, include “English follows” above the
 French content
 ### Setting a language
 If you set an entire document to English but there are some sections that have text written in
