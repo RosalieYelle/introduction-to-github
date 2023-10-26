@@ -89,8 +89,8 @@ Pour rédiger vos courriels en format HTML :
 
 4. dans la liste déroulante **Composition des messages** (**Alt + É**), choisissez **HTML;**
 5. sélectionnez **OK**.
-![Options d&#39;Outlook, Courrier, Composition des messages, liste déroulante avec l&#39;option choisie
-HTML.](https://faradayshielding.com.au/wp-content/uploads/2021/05/Image_039.jpg)
+![Options d'Outlook, Courrier, Composition des messages, liste déroulante avec l'option choisie HTML.](https://github.com/RosalieYelle/introduction-to-github/assets/78310125/40ed5322-1e6c-437f-9d86-6a5ee426f0b1)
+
 
 ## Message bilingue (le cas échéant)
 Dans la mesure du possible, évitez d’envoyer des courriels bilingues parce qu’ils peuvent créer
@@ -99,13 +99,13 @@ divers problèmes d’accessibilité et de convivialité pour de nombreux utilis
 Si vous devez utiliser des courriels bilingues, veillez à ce qu’ils soient aussi accessibles que
 possible.
 
-- L’ajout d’un [signet](#_Bookmarks) permet à l’utilisateur de passer directement au texte
+- L’ajout d’un [signet](#Signets) permet à l’utilisateur de passer directement au texte
 rédigé dans la langue de son choix.
 - Indiquez où se trouve le texte dans l’autre langue :
-1. dans les courriels où l’anglais est la première langue utilisée, faites précéder le texte
-en anglais de la mention « Le français suit l’anglais »;
-2. dans les courriels où le français est la première langue utilisée, faites précéder le
-texte en français de la mention « English follows ».
+  
+1. dans les courriels où l’anglais est la première langue utilisée, faites précéder le texte en anglais de la mention « Le français suit l’anglais »;
+2. dans les courriels où le français est la première langue utilisée, faites précéder letexte en français de la mention « English follows ».
+     
 ### Définir une langue
 Si le document entier est en anglais mais que certaines sections renferment des passages en
 français, le lecteur d’écran configuré pour le texte anglais essaiera de prononcer les termes
