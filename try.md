@@ -1,7 +1,7 @@
 # Création de courriels accessibles
 ## Table des matières
 1. [Format du texte](#Format-du-texte)
-2. [Message bilingue (le cas échéant)](#Message-bilingue-(le-cas-échéant))
+2. [Message bilingue (le cas échéant)](#Message-bilingue-le-cas-échéant)
    
    [Définir une langue](#Définir-une-langue)
    
